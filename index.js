@@ -1,5 +1,5 @@
 const express = require('express');
-// const getToken = require("./getToken");
+const getToken = require("./getToken");
 
 const app = express();
 
